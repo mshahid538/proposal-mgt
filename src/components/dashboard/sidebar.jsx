@@ -41,7 +41,9 @@ const Sidebar = () => {
         </nav>
         <SheetFooter>
           <SheetClose asChild>
-            <Button variant="destructive">Logout</Button>
+            <Link href={"/"}>
+              <Button variant="destructive">Logout</Button>
+            </Link>
           </SheetClose>
         </SheetFooter>
       </SheetContent>
