@@ -1,0 +1,12 @@
+{
+  "main": [
+    { "name": "About", "link": "/about" },
+    { "name": "Contact", "link": "/contact" },
+    { "name": "Login", "link": "/login" },
+    { "name": "Signup", "link": "/signup" }
+  ],
+  "dashboard": [
+    { "name": "Documents", "link": "/dashboard" },
+    { "name": "Create", "link": "/dashboard/create" }
+  ]
+}
